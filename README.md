@@ -9,7 +9,7 @@ Environmental monitoring, urban planning, and resource management are forms of i
 <!-- ![img/architecture_modified.png](img/architecture_modified.png) -->
 
 ## Dataset
-The original dataset is from [Sen-2 LULC]([https://data.mendeley.com/datasets/f4ky6ks248/3](https://www.sciencedirect.com/science/article/pii/S2352340923007953). The "Sen-2 LULC Dataset" is a collection of 213,750 pre-processed 10 m resolution images representing 7 distinct classes of Land Use Land Cover. The 7 classes are water, Dense forest, Sparse forest, Barren land, Built up, Agriculture land and Fallow land. Multiple classes are present in the  single image of the dataset. 
+The original dataset is from [Sen-2 LULC](https://www.sciencedirect.com/science/article/pii/S2352340923007953). The "Sen-2 LULC Dataset" is a collection of 213,750 pre-processed 10 m resolution images representing 7 distinct classes of Land Use Land Cover. The 7 classes are water, Dense forest, Sparse forest, Barren land, Built up, Agriculture land and Fallow land. Multiple classes are present in the  single image of the dataset. 
 
 ## Result
 The evaluation contains three scenarios: Baseline U-SegNet, Modified U-SegNet, Modified U-SegNet + Augmentation. The configurations used to train these scenarios:
@@ -32,6 +32,6 @@ The evaluation contains three scenarios: Baseline U-SegNet, Modified U-SegNet, M
 | mIoU | 26 | **42** | 33 |
 
 ### Segmentation Map
-<p align="center">
-  <img width="800" height="400" src="img/architecture_modified.png">
+<p>
+  <img width="500" height="400" src="img/segmentation_map.png">
 </p>
