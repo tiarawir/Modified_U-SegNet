@@ -43,5 +43,12 @@ The evaluation contains three scenarios: Baseline U-SegNet, Modified U-SegNet, M
  </tr>
 </table>
 
+### Predictions
+Some sample predictions on modified U-SegNet are:
+<img width="600" height="200" src="img/mod_1.png">
+<img width="600" height="200" src="img/mod_2.png">
+<img width="600" height="200" src="img/mod_3.png">
+<img width="600" height="200" src="img/mod_4.png">
+
 ### Demo
 To implement Modified U-SegNet, please use `testing.ipynb` file that I provided.
