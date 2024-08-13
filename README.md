@@ -45,20 +45,13 @@ The evaluation contains three scenarios: Baseline U-SegNet, Modified U-SegNet, M
 
 ### Predictions
 Some sample predictions on modified U-SegNet are:
-|             |          Grouping           ||
-First Header  | Second Header | Third Header |
- ------------ | :-----------: | -----------: |
-Content       |          *Long Cell*        ||
-Content       |   **Cell**    |         Cell |
-
-New section   |     More      |         Data |
-And more      | With an escaped '\|'         ||
-
-<img width="500" height="100" src="img/mod_1.png">
-<img width="500" height="100" src="img/mod_2.png">
-<img width="500" height="100" src="img/mod_3.png">
-<img width="500" height="100" src="img/mod_4.png">
-
+<div>
+  <img width="500" height="150" src="img/header.png">
+  <img width="500" height="150" src="img/mod_1.png">
+  <img width="500" height="150" src="img/mod_2.png">
+  <img width="500" height="150" src="img/mod_3.png">
+  <img width="500" height="150" src="img/mod_4.png">
+</div>
   
 ### Demo
 To implement Modified U-SegNet, please use `testing.ipynb` file that I provided.
