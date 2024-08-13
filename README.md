@@ -45,15 +45,8 @@ The evaluation contains three scenarios: Baseline U-SegNet, Modified U-SegNet, M
 
 ### Predictions
 Some sample predictions on modified U-SegNet are:
-img {
-display:inline-block;
-}
 <div>
-  <img width="500" height="20" src="img/header.png">
-  <img width="500" height="150" src="img/mod_1.png">
-  <img width="500" height="150" src="img/mod_2.png">
-  <img width="500" height="150" src="img/mod_3.png">
-  <img width="500" height="150" src="img/mod_4.png">
+  <img width="500" height="800" src="img/maps.png">
 </div>
   
 ### Demo
