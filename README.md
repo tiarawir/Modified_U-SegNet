@@ -10,10 +10,20 @@ The original dataset is from ["Sen-2 LULC"]([https://data.mendeley.com/datasets/
 
 ## Result
 The evaluation contains three scenarios: Baseline U-SegNet, Modified U-SegNet, Modified U-SegNet + Augmentation. The configurations used to train these scenarios:
-64 batch size
-SGD optimizer (baseline) and Adam optimizer (modified)
-0,001 learning rate
-Early stopping
-ReduceLROnPlateau
-0.1 factor
-2 patience
+* 64 Batch Size
+* SGD Optimizer (baseline) and Adam Optimizer (modified)
+* 0,001 Learning Rate
+* Early Stopping
+* ReduceLROnPlateau
+* 0.1 Factor
+* 2 Patience
+* Categorical Crossentropy
+* 50 Epochs
+
+| Metrics | Baseline U-SegNet | Modified U-SegNet | Modified U-SegNet + Augmentation |
+| ---------------- | ----------------- | ----------------- | -------------------------------- |
+| Recall |  |  |  |
+| Precision |  |  |  |
+| Avg. F1 |  |  |  |
+| Overall Accuracy |  |  |  |
+| mIoU |  |  |  |
