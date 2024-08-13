@@ -45,10 +45,8 @@ The evaluation contains three scenarios: Baseline U-SegNet, Modified U-SegNet, M
 
 ### Predictions
 Some sample predictions on modified U-SegNet are:
-<div>
-  | Original  | Ground Truth | Predictions |
-  | -------------------------------- | -------------------------------- | -------------------------------- |
-</div>
+| Original  | Ground Truth | Predictions |
+| -------------------------------- | -------------------------------- | -------------------------------- |
 <div>
   <img width="500" height="100" src="img/mod_1.png">
   <img width="500" height="100" src="img/mod_2.png">
