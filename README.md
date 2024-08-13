@@ -34,11 +34,14 @@ The evaluation contains three scenarios: Baseline U-SegNet, Modified U-SegNet, M
 ### Segmentation Map
 <table border="0">
  <tr>
-    <td><b style="font-size:30 px">Complex feature</b></td>
-    <td><b style="font-size:30 px">Dominated by one features</b></td>
+    <td><b style="font-size:30 px">Complex features</b></td>
+    <td><b style="font-size:30 px">Dominated by one feature</b></td>
  </tr>
  <tr>
-    <td><img width="300" height="200" src="img/segmentation_map.png"></td>
-    <td><img width="300" height="200" src="img/segmentation_map_simple.png"></td>
+    <td><img width="500" height="400" src="img/segmentation_map.png"></td>
+    <td><img width="500" height="400" src="img/segmentation_map_simple.png"></td>
  </tr>
 </table>
+
+### Demo
+To implement Modified U-SegNet, please use `testing.ipynb` file that I provided.
