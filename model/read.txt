@@ -1,1 +1,7 @@
-"This is a new file" 
+This model folder consists several architectures
+1. U-SegNet Baseline
+2. U-SegNet Modified
+3. U-SegNet Modified + Augmentation
+4. U-SegNet CBAM
+5. U-SegNet + ResNet50
+6. U-SegNet + VGG16
