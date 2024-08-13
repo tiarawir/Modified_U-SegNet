@@ -22,8 +22,8 @@ The evaluation contains three scenarios: Baseline U-SegNet, Modified U-SegNet, M
 
 | Metrics | Baseline U-SegNet | Modified U-SegNet | Modified U-SegNet + Augmentation |
 | ---------------- | ----------------- | ----------------- | -------------------------------- |
-| Recall | 34 | *53* | 45 |
-| Precision |  |  |  |
-| Avg. F1 |  |  |  |
-| Overall Accuracy |  |  |  |
-| mIoU |  |  |  |
+| Recall | 34 | **53** | 45 |
+| Precision | 44 | **57** | 50 |
+| Avg. F1 | 36 | **55** | 46 |
+| Overall Accuracy | 71 | **82** | 74 |
+| mIoU | 26 | **42** | 33 |
