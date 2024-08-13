@@ -53,6 +53,13 @@ Some sample predictions on modified U-SegNet are:
   <img width="500" height="100" src="img/mod_3.png">
   <img width="500" height="100" src="img/mod_4.png">
 </div>
+|             |          Grouping           ||
+First Header  | Second Header | Third Header |
+ ------------ | :-----------: | -----------: |
+Content       |          *Long Cell*        ||
+Content       |   **Cell**    |         Cell |
 
+New section   |     More      |         Data |
+And more      | With an escaped '\|'         ||  
 ### Demo
 To implement Modified U-SegNet, please use `testing.ipynb` file that I provided.
