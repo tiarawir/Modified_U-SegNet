@@ -46,7 +46,7 @@ The evaluation contains three scenarios: Baseline U-SegNet, Modified U-SegNet, M
 ### Predictions
 Some sample predictions on modified U-SegNet are:
 <div>
-  <img width="500" height="800" src="img/maps.png">
+  <img width="500" height="600" src="img/maps.png">
 </div>
   
 ### Demo
