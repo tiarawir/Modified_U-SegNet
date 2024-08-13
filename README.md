@@ -38,7 +38,7 @@ The evaluation contains three scenarios: Baseline U-SegNet, Modified U-SegNet, M
     <td><b style="font-size:30 px">Dominated by one features</b></td>
  </tr>
  <tr>
-    <img width="300" height="200" src="img/segmentation_map.png">
-    <img width="300" height="200" src="img/segmentation_map_simple.png">
+    <td><img width="300" height="200" src="img/segmentation_map.png"></td>
+    <td><img width="300" height="200" src="img/segmentation_map_simple.png"></td>
  </tr>
 </table>
